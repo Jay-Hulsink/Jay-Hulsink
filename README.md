@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: School<br>👯 I’m looking to collaborate on: nothing currently<br>🤝 I’m looking for help with: nothing Currently<br>🌱 I’m currently learning: Web programming<br>💬 Ask me about: useless knowledge<br>⚡ Fun fact: U-OV sucks
+🔭 I’m currently working on: School<br>👯 I’m looking to collaborate on: nothing currently<br>🤝 I’m looking for help with: nothing Currently<br>🌱 I’m currently learning: Web programming<br>💬 Ask me about: useless facts <br>⚡ Fun fact: the 'official' ugliest color is pantone 448c
 
 
 # 💻 Tech Stack:
